@@ -3,8 +3,22 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.19",
+    "@fortawesome/free-brands-svg-icons": "^5.9.0",
+    "@fortawesome/free-solid-svg-icons": "^5.9.0",
+    "@fortawesome/react-fontawesome": "^0.1.4",
+    "@material-ui/icons": "^4.2.1",
+    "@material/react-drawer": "^0.14.1",
+    "@material/react-list": "^0.14.1",
+    "@material/react-material-icon": "^0.14.1",
+    "@material/react-top-app-bar": "^0.14.1",
+    "classnames": "^2.2.6",
+    "clsx": "latest",
+    "firebase": "^6.3.0",
+    "material-ui": "^0.20.2",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
+    "react-fontawesome": "^1.6.1",
     "react-scripts": "3.0.1"
   },
   "scripts": {
@@ -27,5 +41,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@material-ui/core": "^4.2.1"
   }
 }
