@@ -14,7 +14,7 @@
     "@material/react-top-app-bar": "^0.14.1",
     "classnames": "^2.2.6",
     "clsx": "latest",
-    "firebase": "^6.3.0",
+    "firebase": "^10.9.0",
     "material-ui": "^0.20.2",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
